@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+ul,li,h1,h2,h3,p{ padding:0; margin:0; list-style:none}
+a{ color:#0A5451; text-decoration:none}
+img{ display:block}
+body{ background:#336699; width:1000px; margin:0 auto; line-height:21px}
+.clear{ clear:both}
+.menu li{ list-style:none}
+.banner{ position:relative;}
+
+.menu{ width:100%; text-align:center; float:left; background:#000}
+.menu li a{ font-weight:bold; padding:10px 20px; color:#FF9}
+.menu li {  float:left; padding:10px 30px ; width:140px}
+
+.right{ float:right; width:500px; padding:20px}
+.left{ min-height:300px; float:left; width:360px; padding:20px}
+.content{ background:#99CCCC ; color:#0A5451; font-size:14px; display:inline-block ; width:100%}
+
+.end{ clear:both; background:#000; color:#fff; padding:10px 0; text-align:center;}
+.produce img{  margin:0 20px 20px 0}
+.produce { line-height:30px}
+.pad{ padding:20px; display:block}
+.pics p{ margin:2px; text-align:center}
+
+.imglist{ width:960px; margin:0 auto}
+.imglist li{ float:left; width:300px; margin:10px ; text-align:center}
+.imglist li img{ border:#FC6 solid 1px;}
+.pics{ margin:15px 5px; padding-bottom:20px}
+.pics li{ float:left; text-align:center; border:#339999 solid 1px; background:#669999; width:290px; margin:0 19px; padding-bottom:20px}
+.news li{ padding:5px;}
+
+.title{ text-align:center; font-weight:normal; border-bottom:#336666 dotted 2px; margin-bottom:20px; padding:10px}
+.fl{ float:left}
+.jdd  div{ width:98%; margin:1%; margin-bottom:20px; float:left}
+.jdd div strong{ font-size:18px; color:#333333; padding-bottom:20px; display:block}
+.jdd div img{ float:left; margin-right:20px} 
+.msg>div{ padding:10px}
+.ju{ padding:20px; margin:20px; background:#b18984; color:#fff; border-radius:20px}
+.bar{ background:url(../images/bar.png) no-repeat; margin:10px; text-indent:10px; clear:both; color:#fff;  padding:12px}.bar a{ float:right; color:#000}
+.inp{ padding:5px;}
+.cc{ line-height:34px; margin:0 auto; width:600px; padding-bottom:20px}
